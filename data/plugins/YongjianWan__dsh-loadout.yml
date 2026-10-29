@@ -1,0 +1,6 @@
+url: https://github.com/YongjianWan/dsh-loadout
+name: YongjianWan/dsh-loadout
+category: tools
+description:
+  en: 'On-demand tool loadout for DSH: MCP tools are grouped by server and host plugin tools by prefix. Grouped tools are hidden by default and revealed with one call; tools no rule claims stay visible.'
+  zh: 'DSH 的按需工具装配：MCP 工具按 server 自动分组，宿主插件工具按手工前缀分组。进组的默认隐藏、一句话激活，没被规则认领的工具始终可见。'
